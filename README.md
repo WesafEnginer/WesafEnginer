@@ -17,9 +17,6 @@ I am a **QA Engineer / Automation Tester** 🚀 Passionate about testing, automa
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WesafEnginer&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WesafEnginer&layout=compact&theme=dark)
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=WesafEnginer&theme=darkhub)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=WesafEnginer&theme=dark)
