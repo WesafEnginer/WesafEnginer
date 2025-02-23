@@ -14,8 +14,12 @@ I am a **QA Engineer / Automation Tester** 🚀 Passionate about testing, automa
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Artur_dru)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/WesafEnginer)  
 
----
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WesafEnginer&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WesafEnginer&layout=compact&theme=dark)
 
 
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WesafEnginer&show_icons=true&theme=dark)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=WesafEnginer&theme=darkhub)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=WesafEnginer&theme=dark)
