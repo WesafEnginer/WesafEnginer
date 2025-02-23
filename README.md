@@ -4,10 +4,10 @@ I am a **QA Engineer / Automation Tester** 🚀 Passionate about testing, automa
 
 ### 🔧 Tech Stack & Skills:  
 - 🖥 **Automation Testing:** Selenium, Playwright, Cypress  
-- 🔍 **API Testing:** Postman, REST, GraphQL  
-- 📊 **Databases:** MySQL, PostgreSQL  
+- 🔍 **API Testing:** Postman,  
+- 📊 **Databases:** MySQL  
 - 🕵️ **Web Scraping:** BeautifulSoup, Selenium  
-- ⚙ **CI/CD & DevTools:** Jenkins, GitHub Actions, Chrome DevTools  
+- ⚙ **CI/CD & DevTools:** GitHub Actions, Chrome DevTools  
 
 ### 📫 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/artur-drubetskoy-1a4106290)  
