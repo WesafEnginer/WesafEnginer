@@ -27,5 +27,3 @@ I am a **QA Engineer / Automation Tester** 🚀 Passionate about testing, automa
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Artur_dru)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/WesafEnginer)  
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WesafEnginer&show_icons=true&theme=dark)  
